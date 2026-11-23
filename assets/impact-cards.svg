@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 135" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardSurf" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#131822" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    <linearGradient id="blueLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB" />
+      <stop offset="100%" stop-color="#58A6FF" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: 4+ Years -->
+  <g transform="translate(0, 4)">
+    <rect width="208" height="126" rx="10" fill="url(#cardSurf)" stroke="#30363D" stroke-width="1.2" />
+    <rect x="16" y="0" width="48" height="2.5" rx="1.25" fill="#58A6FF" />
+    <circle cx="186" cy="24" r="3.5" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <text x="16" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#F0F6FC">4+ Years</text>
+    <text x="16" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#58A6FF">Production Experience</text>
+    <text x="16" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Cloud DevOps, AWS IaC</text>
+    <text x="16" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">&amp; Full-Stack Engineering</text>
+    <rect x="16" y="112" width="176" height="3.5" rx="1.75" fill="#161B22" />
+    <rect x="16" y="112" width="160" height="3.5" rx="1.75" fill="url(#blueLine)">
+      <animate attributeName="width" values="125;170;125" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card 2: 80% Faster -->
+  <g transform="translate(224, 4)">
+    <rect width="208" height="126" rx="10" fill="url(#cardSurf)" stroke="#30363D" stroke-width="1.2" />
+    <rect x="16" y="0" width="48" height="2.5" rx="1.25" fill="#3FB950" />
+    <circle cx="186" cy="24" r="3.5" fill="#3FB950">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <text x="16" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#F0F6FC">80% Faster</text>
+    <text x="16" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#3FB950">Client Infra Setup</text>
+    <text x="16" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Repeatable AWS setup</text>
+    <text x="16" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">with Terraform IaC</text>
+    <rect x="16" y="112" width="176" height="3.5" rx="1.75" fill="#161B22" />
+    <rect x="16" y="112" width="150" height="3.5" rx="1.75" fill="#2EA043">
+      <animate attributeName="width" values="120;166;120" dur="3.6s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card 3: +90% Gain -->
+  <g transform="translate(448, 4)">
+    <rect width="208" height="126" rx="10" fill="url(#cardSurf)" stroke="#30363D" stroke-width="1.2" />
+    <rect x="16" y="0" width="48" height="2.5" rx="1.25" fill="#58A6FF" />
+    <circle cx="186" cy="24" r="3.5" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite" />
+    </circle>
+    <text x="16" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#F0F6FC">+90% Gain</text>
+    <text x="16" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#58A6FF">System Accuracy</text>
+    <text x="16" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Automated query validation</text>
+    <text x="16" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">&amp; correction logic</text>
+    <rect x="16" y="112" width="176" height="3.5" rx="1.75" fill="#161B22" />
+    <rect x="16" y="112" width="162" height="3.5" rx="1.75" fill="url(#blueLine)">
+      <animate attributeName="width" values="130;170;130" dur="3.8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card 4: K8s & AI -->
+  <g transform="translate(672, 4)">
+    <rect width="208" height="126" rx="10" fill="url(#cardSurf)" stroke="#30363D" stroke-width="1.2" />
+    <rect x="16" y="0" width="48" height="2.5" rx="1.25" fill="#3FB950" />
+    <circle cx="186" cy="24" r="3.5" fill="#3FB950">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+    <text x="16" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#F0F6FC">K8s &amp; AI</text>
+    <text x="16" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#3FB950">Microservices &amp; RAG</text>
+    <text x="16" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Monolith-to-K8s migrations</text>
+    <text x="16" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">&amp; Gemini/OpenAI RAG agents</text>
+    <rect x="16" y="112" width="176" height="3.5" rx="1.75" fill="#161B22" />
+    <rect x="16" y="112" width="158" height="3.5" rx="1.75" fill="#2EA043">
+      <animate attributeName="width" values="125;168;125" dur="4.2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
