@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/akhileshravuri" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>&nbsp;
   <a href="mailto:akhileshravuri2001@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="38" /></a>&nbsp;
   <a href="https://github.com/AKHILESHRAVURI2001" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-github.svg" alt="GitHub" height="38" /></a>&nbsp;
-  <a href="https://akhileshravuri2001.github.io/AkhileshRavuri.pdf" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-resume.svg" alt="Resume PDF" height="38" /></a>
+  <a href="https://akhileshravuri2001.github.io/public/AkhileshRavuri.pdf" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-resume.svg" alt="Resume PDF" height="38" /></a>
 </p>
 
 <img src="./assets/impact-cards.svg" alt="Key Impact Metrics" width="100%" />
