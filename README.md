@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/akhileshravuri" target="_blank"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>&nbsp;
   <a href="mailto:akhileshravuri2001@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="38" /></a>&nbsp;
   <a href="https://github.com/AKHILESHRAVURI2001" target="_blank"><img src="./assets/btn-github.svg" alt="GitHub" height="38" /></a>&nbsp;
-  <a href="./assets/Akhilesh_Ravuri-Resume.pdf"><img src="./assets/btn-resume.svg" alt="Resume PDF" height="38" /></a>&nbsp;
+  <a href="https://akhileshravuri2001.github.io/AkhileshRavuri.pdf" target="_blank"><img src="./assets/btn-resume.svg" alt="Resume PDF" height="38" /></a>&nbsp;
   <img src="./assets/btn-location.svg" alt="Bengaluru, India" height="38" />
 </p>
 
